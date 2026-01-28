@@ -1,5 +1,6 @@
 # 💫 About Me:
 • I am a data professional who blends analytics, data science, and AI to turn complex, high-volume data into clear, decision-ready insights, connecting business problems with technically sound solutions.
+
 • Skilled in building scalable analytical systems—combining SQL, Python, BI, and machine learning—to optimize data workflows, surface patterns, and drive intelligent, data-backed decisions.
 
 ## 🌐 Socials:

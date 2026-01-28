@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am Data Geek with strong expertise in SQL, Python, Power BI, and machine learning, experienced in transforming complex, high-volume datasets into clear, actionable insights that support data-driven decision making<br><br>I am skilled in building scalable analytical workflows, optimizing queries, designing interactive dashboards, and translating business problems into structured analytical solutions.
-
+• I am a data professional who blends analytics, data science, and AI to turn complex, high-volume data into clear, decision-ready insights, connecting business problems with technically sound solutions.
+• Skilled in building scalable analytical systems—combining SQL, Python, BI, and machine learning—to optimize data workflows, surface patterns, and drive intelligent, data-backed decisions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-dandu)
